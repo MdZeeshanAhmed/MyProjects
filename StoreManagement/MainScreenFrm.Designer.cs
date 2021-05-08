@@ -207,7 +207,7 @@
             this.closebtn.BackColor = System.Drawing.Color.White;
             this.closebtn.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.closebtn.ForeColor = System.Drawing.Color.DarkCyan;
-            this.closebtn.Location = new System.Drawing.Point(964, 0);
+            this.closebtn.Location = new System.Drawing.Point(967, 0);
             this.closebtn.Name = "closebtn";
             this.closebtn.Size = new System.Drawing.Size(40, 32);
             this.closebtn.TabIndex = 1;
@@ -230,7 +230,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1008, 729);
+            this.ClientSize = new System.Drawing.Size(1010, 729);
             this.Controls.Add(this.HeaderPB);
             this.Controls.Add(this.MainScreenPB);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;

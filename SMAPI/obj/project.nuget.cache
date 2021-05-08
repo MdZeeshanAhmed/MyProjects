@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fk/6VxaHLiSCblyLfq9Ifcblmo0Fa4g2f/m0bBmyMLKsyLOHeElatP5jXpoYcytiRqWO1gbGwjbGwKVcP2pBnA==",
+  "dgSpecHash": "b0Ib8XQPL/dFSagGH2smM8jshcsJBE7EicEyVhB/46pRYuWWH3grUZVUs7WaDl3ie79TzqcRCV4vwvGx2Gdoyw==",
   "success": true,
-  "projectFilePath": "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\SMAPI.csproj",
+  "projectFilePath": "E:\\GitRepo\\SMAPI\\SMAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\SMAPI.csproj": {}
+    "E:\\GitRepo\\SMAPI\\SMAPI.csproj": {}
   },
   "projects": {
-    "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\SMAPI.csproj": {
+    "E:\\GitRepo\\SMAPI\\SMAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\SMAPI.csproj",
+        "projectUniqueName": "E:\\GitRepo\\SMAPI\\SMAPI.csproj",
         "projectName": "SMAPI",
-        "projectPath": "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\SMAPI.csproj",
-        "packagesPath": "C:\\Users\\Rishikesh\\.nuget\\packages\\",
-        "outputPath": "E:\\ZeeshanProjeccts\\StoreManagement\\SMAPI\\obj\\",
+        "projectPath": "E:\\GitRepo\\SMAPI\\SMAPI.csproj",
+        "packagesPath": "C:\\Users\\Mohammed Zeeshan\\.nuget\\packages\\",
+        "outputPath": "E:\\GitRepo\\SMAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rishikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mohammed Zeeshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
